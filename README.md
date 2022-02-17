@@ -70,7 +70,7 @@ npm run make-mac
 
 👤 **Happy molecula**
 
-* Website: https://github.com/HummyMolecula
+* Website: https://hummymolecula.github.io/hummy-ide.github.io/
 * Github: [@HummyMolecula](https://github.com/HummyMolecula)
 
 ## 🤝 Contributing
